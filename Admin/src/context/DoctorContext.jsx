@@ -10,7 +10,7 @@ const DoctorContextProvider = (props) => {
   const [dashData,setDashData]=useState(false);
   const[profileData,setProfileData]=useState(false);
 
-  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+  const backendUrl = "https://mediconnect-backend-production.up.railway.app";
 
   const getAppointments = async () => {
     try 
