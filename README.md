@@ -13,13 +13,8 @@ A real-time, secure healthcare appointment booking platform designed to simplify
 - **Doctors**: Manage availability, view bookings, and track revenue.
 - **Admins**: Approve doctors, monitor transactions, manage platform data.
 
-### 🧠 AI Health Assistant
-- Powered by **Gemini API**, trained to respond to health-related queries only.
-- ❌ Ignores irrelevant topics (e.g., programming questions).
-- ✅ Provides nutrition tips, health routines, emergency advice, and more.
-- Example:
-  > **User:** _"Suggest a good daily food routine"_  
-  > **Bot:** _"Here’s a sample daily routine from breakfast to lunch..."_
+### 🤖 AI Health Assistant
+Deployed a smart **AI ChatBot**, trained for personalized, health-related insights within the platform.
 
 ### 💳 Secure Payments
 - Integrated **Razorpay** for safe and smooth transaction handling.
