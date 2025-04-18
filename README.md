@@ -2,7 +2,7 @@
 
 A real-time, secure healthcare appointment booking platform designed to simplify and streamline patient-doctor interactions. Built with a role-based system for Admins, Doctors, and Patients, MediConnect ensures a smooth experience from booking to payment — with the added intelligence of a health-specific AI chatbot.
 
-> 🚀 [Live Patient View](https://your-patient-link.com) | [Doctor/Admin Panel](https://your-admin-link.com)
+> 🚀 [Live Patient View](https://medi-connect-frontend-three.vercel.app/) | [Doctor/Admin Panel](https://medi-connect-admin.vercel.app/)
 
 ---
 
@@ -60,4 +60,4 @@ A real-time, secure healthcare appointment booking platform designed to simplify
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/mediconnect.git
+   git clone (https://github.com/KarthikBandi75/MediConnect)
