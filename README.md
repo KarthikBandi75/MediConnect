@@ -14,7 +14,7 @@ A real-time, secure healthcare appointment booking platform designed to simplify
 - **Admins**: Approve doctors, monitor transactions, manage platform data.
 
 ### 🤖 AI Health Assistant
-Deployed a smart **AI ChatBot**, trained for personalized, health-related insights within the platform.
+- Deployed a smart **AI ChatBot**, trained for personalized, health-related insights within the platform.
 
 ### 💳 Secure Payments
 - Integrated **Razorpay** for safe and smooth transaction handling.
