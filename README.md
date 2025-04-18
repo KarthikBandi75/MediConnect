@@ -60,4 +60,4 @@ A real-time, secure healthcare appointment booking platform designed to simplify
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/KarthikBandi75/MediConnect)
+   git clone https://github.com/KarthikBandi75/MediConnect
